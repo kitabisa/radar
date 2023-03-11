@@ -1,0 +1,18 @@
+﻿name;ring;quadrant;isNew;description
+JavaScript;adopt;Languages;TRUE;<a href='https://www.javascript.com/'>JavaScript</a> is our choice for create script performance test. Hold after compare with typescript.
+K6;adopt;Frameworks;TRUE;<a href='https://k6.io/'>K6</a> is our choice for framework performance test.
+NPM;adopt;Frameworks;TRUE;Package manager for JavaScript. Hold after compared with pnpm.
+Github;adopt;Tools;TRUE;All repository should use GitHub.
+VS Code;adopt;Tools;TRUE;A free lightweight IDE. Our text editor of choice.
+Postman;adopt;Tools;TRUE;Postman is an API platform for testing API.
+TypeScript 4;assess;Languages;TRUE;<a href='https://www.typescriptlang.org/'>TypeScript</a> is our choice for create script automation test web and api.
+JQ;assess;Languages;TRUE;jq is a lightweight and flexible command-line JSON processor.
+Bash;assess;Languages;TRUE;<a href='https://www.gnu.org/software/bash/'>Bash</a> is our choice for scripting integration toolkit.
+PNPM 7;assess;Frameworks;TRUE;Package manager for TypeScript.
+Github Actions;assess;Tools;TRUE;Continuous Integration for running our automation test.
+Github Pages;assess;Tools;TRUE;Tools for store and deploy report automation test.
+Docker;assess;Tools;TRUE;Docker should be used as the default containerisation technology.
+Asynchronus Typescript;assess;Techniques;TRUE;Type test needs to know when the code it is testing has completed, before it can move on to another test.
+Python;hold;Languages;FALSE;<a href='https://www.python.org/'>Python</a> is default language for create script automation test using robot framework. Hold because this languages is support for robot framework.
+Robot Framework;hold;Frameworks;FALSE;<a href='https://robotframework.org/'>RobotFramework</a> is our choice for framework automation test. Hold because this framework not familiar for our engineering and not good from running time.
+Jenkins;hold;Tools;FALSE;Continuous Integration for running our automation test. Hold because not familiar for our engineering and not have dedicated people for maintain and not support from our devops side.
