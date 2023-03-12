@@ -4,10 +4,10 @@
 
 ## Kitabisa Tech Radar
 
-- SDET Backend:
-- SDET Frontend:
+- SDET Backend: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-backend.csv
+- SDET Frontend: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-frontend.csv
 - SDET Mobile:
-- SDET Performance:
+- SDET Performance: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-performance.csv
 
 ## What is the Tech Radar:
 
