@@ -11,6 +11,7 @@
 "VS Code","adopt","Tools","TRUE","A free lightweight IDE. Our text editor of choice."
 "Testrail","adopt","Tools","TRUE","TestRail is a test management platform that helps you streamline your software testing processes"
 "BrowserStack","adopt","Tools","TRUE","<a href='https://www.browserstack.com/'BrowseStack</a> is our choice for simulator our application."
+"Gherkin Syntax","adopt","Techniques","TRUE","Gherkin is a plain-text language with a simple structure. It is designed to be easy to learn by non-programmers, yet structured enough to allow concise description of test scenarios and examples to illustrate business rules in most real-world domains."
 "Docker","assess","Tools","TRUE","Docker should be used as the default containerisation technology."
 "JavaScript","assess","Languages","TRUE","<a href='https://www.javascript.com/'>JavaScript</a> is our choice for create script performance test. Hold after compare with typescript."
 "TypeScript 4","assess","Languages","TRUE","<a href='https://www.typescriptlang.org/'>TypeScript</a> is our choice for create script automation test web and api."
