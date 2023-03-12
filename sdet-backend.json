@@ -1,0 +1,128 @@
+[
+  {
+    "name":"TypeScript 4",
+    "ring":"adopt",
+    "quadrant":"Languages",
+    "isNew":"TRUE",
+    "description":"<a href='https://www.typescriptlang.org/'>TypeScript</a> is our choice for create script automation test web and api."
+  },
+  {
+    "name":"JQ",
+    "ring":"adopt",
+    "quadrant":"Languages",
+    "isNew":"TRUE",
+    "description":"jq is a lightweight and flexible command-line JSON processor."
+  },
+  {
+    "name":"Bash",
+    "ring":"adopt",
+    "quadrant":"Languages",
+    "isNew":"TRUE",
+    "description":"<a href='https://www.gnu.org/software/bash/'>Bash</a> is our choice for scripting integration toolkit."
+  },
+  {
+    "name":"Mocha Chai",
+    "ring":"adopt",
+    "quadrant":"Frameworks",
+    "isNew":"TRUE",
+    "description":"<a href='https://mochajs.org/'>Mocha</a> is our choice for framework automation test api."
+  },
+  {
+    "name":"PNPM 7",
+    "ring":"adopt",
+    "quadrant":"Frameworks",
+    "isNew":"TRUE",
+    "description":"Package manager for TypeScript."
+  },
+  {
+    "name":"Github",
+    "ring":"adopt",
+    "quadrant":"Tools",
+    "isNew":"TRUE",
+    "description":"All repository should use GitHub."
+  },
+  {
+    "name":"Github Actions",
+    "ring":"adopt",
+    "quadrant":"Tools",
+    "isNew":"TRUE",
+    "description":"Continuous Integration for running our automation test."
+  },
+  {
+    "name":"Github Pages",
+    "ring":"adopt",
+    "quadrant":"Tools",
+    "isNew":"TRUE",
+    "description":"Tools for store and deploy report automation test."
+  },
+  {
+    "name":"VS Code",
+    "ring":"adopt",
+    "quadrant":"Tools",
+    "isNew":"TRUE",
+    "description":"A free lightweight IDE. Our text editor of choice."
+  },
+  {
+    "name":"Postman",
+    "ring":"adopt",
+    "quadrant":"Tools",
+    "isNew":"TRUE",
+    "description":"Postman is an API platform for testing API."
+  },
+  {
+    "name":"Testrail",
+    "ring":"adopt",
+    "quadrant":"Tools",
+    "isNew":"TRUE",
+    "description":"TestRail is a test management platform that helps you streamline your software testing processes"
+  },
+  {
+    "name":"Asynchronus Typescript",
+    "ring":"adopt",
+    "quadrant":"Techniques",
+    "isNew":"TRUE",
+    "description":"Type test needs to know when the code it is testing has completed, before it can move on to another test."
+  },
+  {
+    "name":"Docker",
+    "ring":"assess",
+    "quadrant":"Tools",
+    "isNew":"TRUE",
+    "description":"Docker should be used as the default containerisation technology."
+  },
+  {
+    "name":"JavaScript",
+    "ring":"hold",
+    "quadrant":"Languages",
+    "isNew":"FALSE",
+    "description":"<a href='https://www.javascript.com/'>JavaScript</a> is our choice for create script performance test. Hold after compare with typescript."
+  },
+  {
+    "name":"Python",
+    "ring":"hold",
+    "quadrant":"Languages",
+    "isNew":"FALSE",
+    "description":"<a href='https://www.python.org/'>Python</a> is default language for create script automation test using robot framework. Hold because this languages is support for robot framework."
+  },
+  {
+    "name":"NPM",
+    "ring":"hold",
+    "quadrant":"Frameworks",
+    "isNew":"FALSE",
+    "description":"Package manager for JavaScript. Hold after compared with pnpm."
+  },
+  {
+    "name":"Robot Framework",
+    "ring":"hold",
+    "quadrant":"Frameworks",
+    "isNew":"FALSE",
+    "description":"<a href='https://robotframework.org/'>RobotFramework</a> is our choice for framework automation test. Hold because this framework not familiar for our engineering and not good from running time."
+  },
+  {
+    "name":"Jenkins",
+    "ring":"hold",
+    "quadrant":"Tools",
+    "isNew":"FALSE",
+    "description":"Continuous Integration for running our automation test. Hold because not familiar for our engineering and not have dedicated people for maintain and not support from our devops side."
+  }
+]
