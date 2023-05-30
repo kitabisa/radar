@@ -4,10 +4,13 @@
 
 ## Kitabisa SDET Tech Radar
 
-- SDET Backend: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-backend.csv
-- SDET Frontend: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-frontend.csv
-- SDET Mobile: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-mobile.csv
-- SDET Performance: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-performance.csv
+- SDET Backend:
+  https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1vS3l8OLFSzCqPbwMbTCf4Pk50OCgOb4HHsNQe41Sw5Q%2Fedit%3Fusp%3Dsharing
+- SDET Frontend:
+  https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1U5j7oMXDeh67_54UoPJ27o8ymzswmmJ0-AosNmLbljQ%2Fedit%3Fusp%3Dsharing
+- SDET Mobile: Coming Soon
+- SDET Performance:
+  https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1XUYblHn83xoISaJG-OPnt8LQZx6KGybkjOSdW9Ei0DM%2Fedit%3Fusp%3Dsharing
 
 ## What is the Tech Radar:
 
