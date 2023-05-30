@@ -2,7 +2,7 @@
 
 [![Kitabisa](assets/cover.png)](https://kitabisa.com)
 
-## Kitabisa Tech Radar
+## Kitabisa SDET Tech Radar
 
 - SDET Backend: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-backend.csv
 - SDET Frontend: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkitabisa%2Fradar%2Fmaster%2Fsdet-frontend.csv
@@ -20,8 +20,8 @@ Kitabisa Tech Radar is a list technologies, complemented by an assessment result
 
 ## What is the purpose?
 
-The Tech Radar is a tool to inspire and support Engineering teams at Kitabisa to pick the best technologies for our projects, it provides a platform to share knowledge and experience in technologies, to reflect on technology decisions and continuously evolve our technology landscape.
+The Tech Radar is a tool to inspire and support Engineering teams especially SDET at Kitabisa to pick the best technologies for our projects, it provides a platform to share knowledge and experience in technologies, to reflect on technology decisions and continuously evolve our technology landscape.
 
 ## Maintain
 
-The Tech Radar is maintained by our Platform Lead - Quality Engineer.
+The Tech Radar is maintained by our SDET Lead.
