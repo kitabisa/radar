@@ -1,0 +1,387 @@
+[
+  {
+    "name": "TypeScript 5",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": true,
+    "description": "<a href='https://www.typescriptlang.org/'>TypeScript</a> is our choice for create script automation test web and api."
+  },
+  {
+    "name": "JQ",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": true,
+    "description": "jq is a lightweight and flexible command-line JSON processor."
+  },
+  {
+    "name": "Bash",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": true,
+    "description": "<a href='https://www.gnu.org/software/bash/'>Bash</a> is our choice for scripting integration toolkit."
+  },
+  {
+    "name": "WebdriverIO 8",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": true,
+    "description": "<a href='https://webdriver.io/'>WebdriverIO</a> is our choice for framework automation test web."
+  },
+  {
+    "name": "PNPM 8",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": true,
+    "description": "Package manager for TypeScript."
+  },
+  {
+    "name": "Mocha",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": true,
+    "description": "<a href='https://mochajs.org/'>Mocha</a> is our choice for framework automation test api."
+  },
+  {
+    "name": "Chai",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": true,
+    "description": "<a href='https://www.chaijs.com/'>Chai</a> is our choice for assertion automation test api."
+  },
+  {
+    "name": "Github",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": true,
+    "description": "All repository should use GitHub."
+  },
+  {
+    "name": "Github Actions",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": true,
+    "description": "Continuous Integration for running our automation test."
+  },
+  {
+    "name": "Github Pages",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": true,
+    "description": "Tools for store and deploy report automation test."
+  },
+  {
+    "name": "VS Code",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": true,
+    "description": "A free lightweight IDE. Our text editor of choice."
+  },
+  {
+    "name": "Testrail",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": true,
+    "description": "TestRail is a test management platform that helps you streamline your software testing processes"
+  },
+  {
+    "name": "Asynchronus Typescript",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": true,
+    "description": "Type test needs to know when the code it is testing has completed, before it can move on to another test."
+  },
+  {
+    "name": "@commitlint/cli",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Tool that enforces a consistent format and style for Git commit messages across a project or organization."
+  },
+  {
+    "name": "@commitlint/config-conventional",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Configuration preset that defines a set of conventional commit message rules."
+  },
+  {
+    "name": "@faker-js/faker",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a library for generating realistic fake data."
+  },
+  {
+    "name": "@types/chai",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "TypeScript type definitions for the chai assertion library."
+  },
+  {
+    "name": "@types/mocha",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "TypeScript type definitions for the Mocha testing framework."
+  },
+  {
+    "name": "@types/node",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "TypeScript type definitions for the Node.js runtime and its core modules."
+  },
+  {
+    "name": "@types/node-slack",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "TypeScript interface for the Slack Web API."
+  },
+  {
+    "name": "@types/supertest",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "TypeScript type definitions for the supertest library for testing Node.js HTTP servers."
+  },
+  {
+    "name": "@typescript-eslint/eslint-plugin",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Linting tool that helps developers maintain consistent coding styles and catch common programming errors."
+  },
+  {
+    "name": "@typescript-eslint/parser",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "TypeScript parser for ESLint a popular linting tool that helps developers maintain consistent coding styles and catch common programming errors."
+  },
+  {
+    "name": "@wdio/cli",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Command Line Interface (CLI) for the WebdriverIO automation testing framework."
+  },
+  {
+    "name": "@wdio/local-runner",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a test runner that runs WebdriverIO tests locally on your machine."
+  },
+  {
+    "name": "@wdio/mocha-framework",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Allows you to use the Mocha test framework with WebdriverIO."
+  },
+  {
+    "name": "@wdio/runner",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a test runner that runs WebdriverIO tests in a distributed manner, across multiple instances or grids. "
+  },
+  {
+    "name": "@wdio/selenium-standalone-service",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a Selenium standalone service for the WebdriverIO automation testing framework."
+  },
+  {
+    "name": "@wdio/spec-reporter",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a test reporter that formats and displays test results in a readable and concise manner."
+  },
+  {
+    "name": "@wdio/types",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides TypeScript types that can be used to write type-safe code for WebdriverIO."
+  },
+  {
+    "name": "chromedriver",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more."
+  },
+  {
+    "name": "danger",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Helps streamline the code review process and promotes better code quality in projects using continuous integration."
+  },
+  {
+    "name": "dotenv",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Allows developers to load environment variables from a .env file. "
+  },
+  {
+    "name": "eslint ",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a pluggable and configurable linter for JavaScript code."
+  },
+  {
+    "name": "expect",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a simple and intuitive assertion library for writing tests."
+  },
+  {
+    "name": "expect-webdriverio",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a set of custom Jasmine matchers for WebdriverIO automation testing framework."
+  },
+  {
+    "name": "git-scripts",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a set of scripts for automating common Git tasks."
+  },
+  {
+    "name": "husky ",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Allows developers to add Git hooks, scripts that are run automatically when certain Git events occur, such as committing changes, merging branches, or pushing changes to a remote repository."
+  },
+  {
+    "name": "lint-staged ",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Allows you to configure Git to run specific scripts, such as linters or formatting tools, only on the files that have been staged for the commit."
+  },
+  {
+    "name": "node-slack",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a simple and intuitive way to send messages and notifications to Slack channels from Node.js applications."
+  },
+  {
+    "name": "path",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a set of utilities for working with file and directory paths."
+  },
+  {
+    "name": "supertest",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Simplifies the process of testing HTTP servers by providing a clean and expressive API for sending HTTP requests and asserting on their responses."
+  },
+  {
+    "name": "ts-node",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Allows developers to execute TypeScript code directly in a Node.js runtime environment without having to compile it first."
+  },
+  {
+    "name": "uuid",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a simple and efficient way to generate universally unique identifiers (UUIDs)."
+  },
+  {
+    "name": "wdio-chromedriver-service",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a service for running ChromeDriver, which is the WebDriver implementation for Google Chrome."
+  },
+  {
+    "name": "wdio-timeline-reporter",
+    "ring": "adopt",
+    "quadrant": "Packages & Library",
+    "isNew": true,
+    "description": "Provides a custom reporter for generating an interactive timeline report of your test runs."
+  },
+  {
+    "name": "Docker",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": true,
+    "description": "Docker should be used as the default containerisation technology."
+  },
+  {
+    "name": "JavaScript",
+    "ring": "hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": false,
+    "description": "<a href='https://www.javascript.com/'>JavaScript</a> is our choice for create script performance test. Hold after compare with typescript."
+  },
+  {
+    "name": "Python",
+    "ring": "hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": false,
+    "description": "<a href='https://www.python.org/'>Python</a> is default language for create script automation test using robot framework. Hold because this languages is support for robot framework."
+  },
+  {
+    "name": "NPM",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": "Package manager for JavaScript. Hold after compared with pnpm."
+  },
+  {
+    "name": "Robot Framework",
+    "ring": "hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": false,
+    "description": "<a href='https://robotframework.org/'>RobotFramework</a> is our choice for framework automation test. Hold because this framework not familiar for our engineering and not good from running time."
+  },
+  {
+    "name": "WebdriverIO 7",
+    "ring": "hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": false,
+    "description": "<a href='https://webdriver.io/'>WebdriverIO</a> is our choice for framework automation test web. Hold this version because for now we use version 8."
+  },
+  {
+    "name": "Cypress",
+    "ring": "hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": false,
+    "description": "<a href='https://www.cypress.io/'>Cypress</a> is framework automation test web. Hold this framework after research and compare with WebdriverIO, one reason is cypress not support page object model pattern."
+  },
+  {
+    "name": "Jenkins",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": false,
+    "description": "Continuous Integration for running our automation test. Hold because not familiar for our engineering and not have dedicated people for maintain and not support from our devops side."
+  },
+  {
+    "name": "TypeScript 4",
+    "ring": "hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": false,
+    "description": "<a href='https://www.typescriptlang.org/'>TypeScript</a> is our choice for create script automation test web and api."
+  }
+]
