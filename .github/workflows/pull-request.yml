@@ -1,0 +1,13 @@
+name: pull-request
+
+on: pull_request
+
+jobs:
+  assign:
+    runs-on: ktbs-infra-k8s-runner
+
+    steps:
+      - uses: delivery-much/actions-assigner@v1
+        with:
+          token: ${{ secrets.SDET_TOKEN }}
+          team-reviewers: sdet

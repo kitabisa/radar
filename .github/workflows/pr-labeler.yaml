@@ -1,0 +1,23 @@
+name: pull-request-labeling
+
+on:
+  - pull_request
+
+jobs:
+  size-label:
+    runs-on: ktbs-infra-k8s-runner
+    steps:
+      - name: size-label
+        uses: "pascalgn/size-label-action@v0.4.3"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+        with:
+          sizes: >
+            {
+              "50": "XS",
+              "100": "S",
+              "250": "M",
+              "500": "L",
+              "1000": "XL",
+              "2000": "XXL"
+            }
