@@ -1,20 +1,56 @@
-﻿"name","ring","quadrant","isNew","description"
-"TypeScript 4","adopt","Languages","TRUE","<a href='https://www.typescriptlang.org/'>TypeScript</a> is our choice for create script automation test web and api."
-"JQ","adopt","Languages","TRUE","jq is a lightweight and flexible command-line JSON processor."
-"Bash","adopt","Languages","TRUE","<a href='https://www.gnu.org/software/bash/'>Bash</a> is our choice for scripting integration toolkit."
-"WebdriverIO 8","adopt","Frameworks","TRUE","<a href='https://webdriver.io/'>WebdriverIO</a> is our choice for framework automation test web."
-"PNPM 7","adopt","Frameworks","TRUE","Package manager for TypeScript."
-"Github","adopt","Tools","TRUE","All repository should use GitHub."
-"Github Actions","adopt","Tools","TRUE","Continuous Integration for running our automation test."
-"Github Pages","adopt","Tools","TRUE","Tools for store and deploy report automation test."
-"VS Code","adopt","Tools","TRUE","A free lightweight IDE. Our text editor of choice."
-"Testrail","adopt","Tools","TRUE","TestRail is a test management platform that helps you streamline your software testing processes"
-"Asynchronus Typescript","adopt","Techniques","TRUE","Type test needs to know when the code it is testing has completed, before it can move on to another test."
-"Docker","assess","Tools","TRUE","Docker should be used as the default containerisation technology."
-"JavaScript","hold","Languages","FALSE","<a href='https://www.javascript.com/'>JavaScript</a> is our choice for create script performance test. Hold after compare with typescript."
-"Python","hold","Languages","FALSE","<a href='https://www.python.org/'>Python</a> is default language for create script automation test using robot framework. Hold because this languages is support for robot framework."
-"NPM","hold","Frameworks","FALSE","Package manager for JavaScript. Hold after compared with pnpm."
-"Robot Framework","hold","Frameworks","FALSE","<a href='https://robotframework.org/'>RobotFramework</a> is our choice for framework automation test. Hold because this framework not familiar for our engineering and not good from running time."
-"WebdriverIO 7","hold","Frameworks","FALSE","<a href='https://webdriver.io/'>WebdriverIO</a> is our choice for framework automation test web. Hold this version because for now we use version 8."
-"Cypress","hold","Frameworks","FALSE","<a href='https://www.cypress.io/'>Cypress</a> is framework automation test web. Hold this framework after research and compare with WebdriverIO, one reason is cypress not support page object model pattern."
-"Jenkins","hold","Tools","FALSE","Continuous Integration for running our automation test. Hold because not familiar for our engineering and not have dedicated people for maintain and not support from our devops side."
+﻿"name”,"ring”,"quadrant”,"isNew”,"description”
+"TypeScript 5”,"adopt”,"Languages & Frameworks”,"TRUE”,"<a href='https://www.typescriptlang.org/'>TypeScript</a> is our choice for create script automation test web and api.”
+"JQ”,"adopt”,"Languages & Frameworks”,"TRUE”,"jq is a lightweight and flexible command-line JSON processor.”
+"Bash”,"adopt”,"Languages & Frameworks”,"TRUE”,"<a href='https://www.gnu.org/software/bash/'>Bash</a> is our choice for scripting integration toolkit.”
+"WebdriverIO 8”,"adopt”,"Languages & Frameworks”,"TRUE”,"<a href='https://webdriver.io/'>WebdriverIO</a> is our choice for framework automation test web.”
+"PNPM 8”,"adopt”,"Tools”,"TRUE”,"Package manager for TypeScript.”
+"Mocha”,"adopt”,"Languages & Frameworks”,"TRUE”,"<a href='https://mochajs.org/'>Mocha</a> is our choice for framework automation test api.”
+"Chai”,"adopt”,"Languages & Frameworks”,"TRUE”,"<a href='https://www.chaijs.com/'>Chai</a> is our choice for assertion automation test api.”
+"Github”,"adopt”,"Tools”,"TRUE”,"All repository should use GitHub.”
+"Github Actions”,"adopt”,"Tools”,"TRUE”,"Continuous Integration for running our automation test.”
+"Github Pages”,"adopt”,"Tools”,"TRUE”,"Tools for store and deploy report automation test.”
+"VS Code”,"adopt”,"Tools”,"TRUE”,"A free lightweight IDE. Our text editor of choice.”
+"Testrail”,"adopt”,"Tools”,"TRUE”,"TestRail is a test management platform that helps you streamline your software testing processes”
+"Asynchronus Typescript”,"adopt”,"Techniques”,"TRUE”,"Type test needs to know when the code it is testing has completed, before it can move on to another test.”
+"@commitlint/cli”,"adopt”,"Packages & Library”,"TRUE”,"Tool that enforces a consistent format and style for Git commit messages across a project or organization.”
+"@commitlint/config-conventional”,"adopt”,"Packages & Library”,"TRUE”,"Configuration preset that defines a set of conventional commit message rules.”
+"@faker-js/faker”,"adopt”,"Packages & Library”,"TRUE”,"Provides a library for generating realistic fake data.”
+"@types/chai”,"adopt”,"Packages & Library”,"TRUE”,"TypeScript type definitions for the chai assertion library.”
+"@types/mocha”,"adopt”,"Packages & Library”,"TRUE”,"TypeScript type definitions for the Mocha testing framework.”
+"@types/node”,"adopt”,"Packages & Library”,"TRUE”,"TypeScript type definitions for the Node.js runtime and its core modules.”
+"@types/node-slack”,"adopt”,"Packages & Library”,"TRUE”,"TypeScript interface for the Slack Web API.”
+"@types/supertest”,"adopt”,"Packages & Library”,"TRUE”,"TypeScript type definitions for the supertest library for testing Node.js HTTP servers.”
+"@typescript-eslint/eslint-plugin”,"adopt”,"Packages & Library”,"TRUE”,"Linting tool that helps developers maintain consistent coding styles and catch common programming errors.”
+"@typescript-eslint/parser”,"adopt”,"Packages & Library”,"TRUE”,"TypeScript parser for ESLint a popular linting tool that helps developers maintain consistent coding styles and catch common programming errors.”
+"@wdio/cli”,"adopt”,"Packages & Library”,"TRUE”,"Command Line Interface (CLI) for the WebdriverIO automation testing framework.”
+"@wdio/local-runner”,"adopt”,"Packages & Library”,"TRUE”,"Provides a test runner that runs WebdriverIO tests locally on your machine.”
+"@wdio/mocha-framework”,"adopt”,"Packages & Library”,"TRUE”,"Allows you to use the Mocha test framework with WebdriverIO.”
+"@wdio/runner”,"adopt”,"Packages & Library”,"TRUE”,"Provides a test runner that runs WebdriverIO tests in a distributed manner, across multiple instances or grids. ”
+"@wdio/selenium-standalone-service”,"adopt”,"Packages & Library”,"TRUE”,"Provides a Selenium standalone service for the WebdriverIO automation testing framework.”
+"@wdio/spec-reporter”,"adopt”,"Packages & Library”,"TRUE”,"Provides a test reporter that formats and displays test results in a readable and concise manner.”
+"@wdio/types”,"adopt”,"Packages & Library”,"TRUE”,"Provides TypeScript types that can be used to write type-safe code for WebdriverIO.”
+"chromedriver”,"adopt”,"Packages & Library”,"TRUE”,"Open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.”
+"danger”,"adopt”,"Packages & Library”,"TRUE”,"Helps streamline the code review process and promotes better code quality in projects using continuous integration.”
+"dotenv”,"adopt”,"Packages & Library”,"TRUE”,"Allows developers to load environment variables from a .env file. ”
+"eslint ”,"adopt”,"Packages & Library”,"TRUE”,"Provides a pluggable and configurable linter for JavaScript code.”
+"expect”,"adopt”,"Packages & Library”,"TRUE”,"Provides a simple and intuitive assertion library for writing tests.”
+"expect-webdriverio”,"adopt”,"Packages & Library”,"TRUE”,"Provides a set of custom Jasmine matchers for WebdriverIO automation testing framework.”
+"git-scripts”,"adopt”,"Packages & Library”,"TRUE”,"Provides a set of scripts for automating common Git tasks.”
+"husky ”,"adopt”,"Packages & Library”,"TRUE”,"Allows developers to add Git hooks, scripts that are run automatically when certain Git events occur, such as committing changes, merging branches, or pushing changes to a remote repository.”
+"lint-staged ”,"adopt”,"Packages & Library”,"TRUE”,"Allows you to configure Git to run specific scripts, such as linters or formatting tools, only on the files that have been staged for the commit.”
+"node-slack”,"adopt”,"Packages & Library”,"TRUE”,"Provides a simple and intuitive way to send messages and notifications to Slack channels from Node.js applications.”
+"path”,"adopt”,"Packages & Library”,"TRUE”,"Provides a set of utilities for working with file and directory paths.”
+"supertest”,"adopt”,"Packages & Library”,"TRUE”,"Simplifies the process of testing HTTP servers by providing a clean and expressive API for sending HTTP requests and asserting on their responses.”
+"ts-node”,"adopt”,"Packages & Library”,"TRUE”,"Allows developers to execute TypeScript code directly in a Node.js runtime environment without having to compile it first.”
+"uuid”,"adopt”,"Packages & Library”,"TRUE”,"Provides a simple and efficient way to generate universally unique identifiers (UUIDs).”
+"wdio-chromedriver-service”,"adopt”,"Packages & Library”,"TRUE”,"Provides a service for running ChromeDriver, which is the WebDriver implementation for Google Chrome.”
+"wdio-timeline-reporter”,"adopt”,"Packages & Library”,"TRUE”,"Provides a custom reporter for generating an interactive timeline report of your test runs.”
+"Docker”,"assess”,"Tools”,"TRUE”,"Docker should be used as the default containerisation technology.”
+"JavaScript”,"hold”,"Languages & Frameworks”,"FALSE”,"<a href='https://www.javascript.com/'>JavaScript</a> is our choice for create script performance test. Hold after compare with typescript.”
+"Python”,"hold”,"Languages & Frameworks”,"FALSE”,"<a href='https://www.python.org/'>Python</a> is default language for create script automation test using robot framework. Hold because this languages is support for robot framework.”
+"NPM”,"hold”,"Tools”,"FALSE”,"Package manager for JavaScript. Hold after compared with pnpm.”
+"Robot Framework”,"hold”,"Languages & Frameworks”,"FALSE”,"<a href='https://robotframework.org/'>RobotFramework</a> is our choice for framework automation test. Hold because this framework not familiar for our engineering and not good from running time.”
+"WebdriverIO 7”,"hold”,"Languages & Frameworks”,"FALSE”,"<a href='https://webdriver.io/'>WebdriverIO</a> is our choice for framework automation test web. Hold this version because for now we use version 8.”
+"Cypress”,"hold”,"Languages & Frameworks”,"FALSE”,"<a href='https://www.cypress.io/'>Cypress</a> is framework automation test web. Hold this framework after research and compare with WebdriverIO, one reason is cypress not support page object model pattern.”
+"Jenkins”,"hold”,"Tools”,"FALSE”,"Continuous Integration for running our automation test. Hold because not familiar for our engineering and not have dedicated people for maintain and not support from our devops side.”
+"TypeScript 4”,"hold”,"Languages & Frameworks”,"FALSE”,"<a href='https://www.typescriptlang.org/'>TypeScript</a> is our choice for create script automation test web and api.”
